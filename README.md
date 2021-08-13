@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShingoHiruma
 - 👀 I’m interested in optimization problems in electromagnetism.
 - 🌱 I’m currently learning machine learning technique for financial data.
-- 💞️ I’m looking to collaborate on medical science such as MRI and NMR.
+- 💞️ I’m looking to collaborate on MRI, NMR. I can contribute to the magnet and coil optimization for such devices.
 - 📫 ...
 
 <!---
