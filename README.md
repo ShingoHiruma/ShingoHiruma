@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShingoHiruma
 - 👀 I’m interested in optimization problems in electromagnetism.
-- 🌱 I’m currently learning machine learning technique for financial data.
 - 📫 ...
 
 <!---
